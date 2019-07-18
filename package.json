@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A node HTML server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Mark B. Mullins",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
