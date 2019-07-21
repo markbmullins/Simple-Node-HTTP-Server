@@ -1,0 +1,51 @@
+body {
+    background: #333;
+    color: #fff;
+}
+a {
+    margin: 0px 15px 0px 15px;
+}
+a:link {
+    color: #2196f3;
+}
+
+a:visited {
+    color: #651fff;
+}
+
+pre, code {
+    font-family: monospace, monospace;
+    font-size:0.8rem;
+
+}
+
+pre > code {
+    display: block;
+    padding: 1rem;
+    word-wrap: normal;
+  }
+
+.container {
+    border: #fff;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    top: 70px;
+    bottom: 10px; 
+    right: 5px;
+    left: 5px;
+    
+}
+
+.container p {
+    font-size: 3em;
+    text-align:center;
+}   
+
+.header {
+    text-align: center;
+    color: #fff;
+    height: 40px;
+    width: 100%;
+}
