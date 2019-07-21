@@ -2,6 +2,8 @@
 
 A simple node HTTP server written in Node.js using only built in modules. The server uses `http` to create the server and handle incoming requests and responses. It uses `path` to handle file manipulation, including reading extention names and concatenating paths. Finally, it uses `fs` to read the HTML files that the server responds with.
 
+This server is hosted for free on Heroku at https://marks-node-http-server.herokuapp.com/.
+
 
 
 ## Server Code
